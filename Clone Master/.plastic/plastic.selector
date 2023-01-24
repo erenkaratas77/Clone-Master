@@ -1,0 +1,4 @@
+repository "Clone Master@Area37@cloud"
+  path "/"
+    br "/main"
+    co "/main"
